@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "name": "GOOD MOOD",
+    "slug": "good-mood",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#080810",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.goodmood.music"
+    },
+    "android": {
+      "package": "com.goodmood.music"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
